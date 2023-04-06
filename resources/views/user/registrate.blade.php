@@ -5,11 +5,11 @@
         <form action="{{}}">
             <div class="row col-md-9 ml-5">
                 <div class="col-md-3">
-
-                    <label for="">Ном</label>   <input type="text" class="form-control">
+helllo
+                    <label for="">Ноfdsfsdfsfdsfм</label>   <input type="text" class="form-control">
                 </div>
                 <div class="col-md-3">
-                    <label for="">Ном</label>
+                    <label for="cxzvzx">Ном</label>
                     <input type="text" class="form-control">
                 </div>
                 <div class="col-md-3">
